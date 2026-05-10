@@ -24,6 +24,9 @@
 | [FinRL](https://github.com/AI4Finance-Foundation/FinRL) | 股票/外汇 | 深度强化学习交易 |
 | [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | 通用 | LLM金融分析 |
 | [Qlib](https://github.com/microsoft/qlib) | 股票 | 微软AI量化平台 |
+| [NOFX](https://github.com/NoFxAiOS/nofx) | 加密货币/股票/外汇 | 全自主AI交易助手，多模型多交易所 |
+| [OpenAlice](https://github.com/TraderAlice/OpenAlice) | 股票/加密货币/商品/外汇 | 全生命周期AI交易Agent，Git式工作流 |
+| [Polymarket Agents](https://github.com/Polymarket/agents) | 预测市场 | Polymarket官方AI Agent交易框架 |
 
 ## 📊 量化交易工具
 
