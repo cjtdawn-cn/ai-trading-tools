@@ -26,6 +26,8 @@
 | [financial-services](https://github.com/anthropics/financial-services) | 金融 | Anthropic官方MCP，金融数据+AI分析 |
 | [dexter](https://github.com/virattt/dexter) | 研究 | 自主金融深度研究，基本面+技术面 |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | 通用 | 有状态图Agent工作流，可构建交易Agent |
+| [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | 金融 | 开源金融LLM，20K⭐，情感分析+市场预测 |
+| [FinRL](https://github.com/AI4Finance-Foundation/FinRL) | 股票/加密 | 深度强化学习交易，15.1K⭐，NeurIPS工作坊 |
 
 ---
 
@@ -49,6 +51,8 @@
 | Agent原生交易 | AI-Trader范式 | 100% AI决策，零人工干预 |
 | 金融深度研究 | Dexter范式 | AI自主收集分析数据，生成交易报告 |
 | 情感分析交易 | NLP + LLM | 分析新闻/社交媒体情绪驱动交易 |
+| 金融LLM分析 | FinGPT | 开源金融大模型，情感分析+市场预测 |
+| 强化学习交易 | FinRL + DRL | 深度强化学习自动优化交易策略 |
 
 ---
 
@@ -61,6 +65,7 @@
 | [Freqtrade](https://github.com/freqtrade/freqtrade) | 加密货币自动交易 |
 | [Zipline-Reloaded](https://github.com/stefan-jansen/zipline-reloaded) | 量化回测引擎 |
 | [vectorbt](https://github.com/polakowo/vectorbt) | 向量化回测 |
+| [OpenAlgo](https://github.com/marketcalls/openalgo) | 自托管算法交易平台，统一30+券商API |
 
 ---
 
