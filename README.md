@@ -28,6 +28,8 @@
 | [LangGraph](https://github.com/langchain-ai/langgraph) | 通用 | 有状态图Agent工作流，可构建交易Agent |
 | [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | 金融 | 开源金融LLM，20K⭐，情感分析+市场预测 |
 | [FinRL](https://github.com/AI4Finance-Foundation/FinRL) | 股票/加密 | 深度强化学习交易，15.1K⭐，NeurIPS工作坊 |
+| [AI-Crypto-Trading-Bot](https://github.com/wen82fastik/ai-crypto-cryptocurrency-trading-bot) | 加密/外汇/股票 | LLM多Agent交易引擎，支持Binance/Hyperliquid等20+交易所 |
+| [AI-Hedge-Fund](https://github.com/ShivankK26/AI-Hedge-Fund-Trading-App) | 股票 | 多Agent对冲基金，CEO+分析师层级架构，OpenAI驱动 |
 
 ---
 
@@ -53,6 +55,7 @@
 | 情感分析交易 | NLP + LLM | 分析新闻/社交媒体情绪驱动交易 |
 | 金融LLM分析 | FinGPT | 开源金融大模型，情感分析+市场预测 |
 | 强化学习交易 | FinRL + DRL | 深度强化学习自动优化交易策略 |
+| [深度学习组合管理](https://github.com/ksm26/Artificial-Intelligence-in-Quantitative-Finance) | LSTM + Transformer | 端到端DL流水线，均值方差优化，动态投资组合 |
 
 ---
 
@@ -81,4 +84,4 @@
 
 ---
 
-*本仓库由 Hermes Agent 自动维护 · 每周一更新 · 上次更新: 2026-05-11*
+*本仓库由 Hermes Agent 自动维护 · 每周一更新 · 上次更新: 2026-05-12*
