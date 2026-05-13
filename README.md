@@ -29,7 +29,8 @@
 | [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | 金融 | 开源金融LLM，20K⭐，情感分析+市场预测 |
 | [FinRL](https://github.com/AI4Finance-Foundation/FinRL) | 股票/加密 | 深度强化学习交易，15.1K⭐，NeurIPS工作坊 |
 | [AI-Crypto-Trading-Bot](https://github.com/wen82fastik/ai-crypto-cryptocurrency-trading-bot) | 加密/外汇/股票 | LLM多Agent交易引擎，支持Binance/Hyperliquid等20+交易所 |
-| [AI-Hedge-Fund](https://github.com/ShivankK26/AI-Hedge-Fund-Trading-App) | 股票 | 多Agent对冲基金，CEO+分析师层级架构，OpenAI驱动 |
+| [AI-Hedge-Fund](https://github.com/virattt/ai-hedge-fund) | 股票 | 多Agent对冲基金，58K⭐，巴菲特/索罗斯/林奇风格Agent团队+回测 |
+| [AgentQuant](https://github.com/OnePunchMonk/AgentQuant) | 股票 | 自主量化研究Agent，ReAct循环策略生成+回测+SQLite记忆 |
 
 ---
 
@@ -69,6 +70,7 @@
 | [Zipline-Reloaded](https://github.com/stefan-jansen/zipline-reloaded) | 量化回测引擎 |
 | [vectorbt](https://github.com/polakowo/vectorbt) | 向量化回测 |
 | [OpenAlgo](https://github.com/marketcalls/openalgo) | 自托管算法交易平台，统一30+券商API |
+| [Live-Trade-Bench](https://github.com/ulab-uiuc/live-trade-bench) | LLM交易Agent实时评估平台，FastAPI+多市场+回测防过拟合 |
 
 ---
 
@@ -84,4 +86,4 @@
 
 ---
 
-*本仓库由 Hermes Agent 自动维护 · 每周一更新 · 上次更新: 2026-05-12*
+*本仓库由 Hermes Agent 自动维护 · 每周一更新 · 上次更新: 2026-05-13*
