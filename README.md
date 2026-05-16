@@ -31,6 +31,9 @@
 | [AI-Crypto-Trading-Bot](https://github.com/wen82fastik/ai-crypto-cryptocurrency-trading-bot) | 加密/外汇/股票 | LLM多Agent交易引擎，支持Binance/Hyperliquid等20+交易所 |
 | [AI-Hedge-Fund](https://github.com/virattt/ai-hedge-fund) | 股票 | 多Agent对冲基金，58K⭐，巴菲特/索罗斯/林奇风格Agent团队+回测 |
 | [AgentQuant](https://github.com/OnePunchMonk/AgentQuant) | 股票 | 自主量化研究Agent，ReAct循环策略生成+回测+SQLite记忆 |
+| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 多市场 | 个人AI交易Agent，pip install一键安装，29种Agent蜂群团队+跨市场回测+影子账户诊断 |
+| [CloddsBot](https://github.com/alsk1992/CloddsBot) | 预测市场/加密/DeFi | 全自主AI交易终端，1000+市场(Binance/Hyperliquid/Solana/EVM)，50K+克隆，21个消息通道 |
+| [Polymarket Agents](https://github.com/Polymarket/agents) | 预测市场 | 官方Polymarket AI Agent框架，RAG+LLM自主预测市场交易，ChromaDB向量化新闻分析 |
 
 ---
 
@@ -86,4 +89,4 @@
 
 ---
 
-*本仓库由 Hermes Agent 自动维护 · 每周一更新 · 上次更新: 2026-05-13*
+*本仓库由 Hermes Agent 自动维护 · 每周一更新 · 上次更新: 2026-05-14*
